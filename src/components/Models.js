@@ -33,7 +33,7 @@ function Models() {
                                     <h3 className='text-white text-xs font-semibold'>Top speed</h3>
                                 </div>
                             </div>
-                            <div className='flex xs:flex-col gap-4'>
+                            <div className='flex flex-col md:flex-row gap-4'>
                                 <h3 className='bg-white xs:px-32 px-24 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
                                 <h3 className='border-2 border-white text-white xs:px-32 px-24 py-2 font-semibold rounded-sm cursor-pointer hover:bg-white hover:text-black transition-all duration-400'>Demo Drive</h3>
                             </div>
