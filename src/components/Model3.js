@@ -103,7 +103,7 @@ function Model3() {
                 </div>
                 <div>
                     <img src={InteriorModel3} alt='Interior Model 3' />
-                    <div className='py-16 flex flex-col lg:flex-row gap-4 md:px-16 lg:px-32'>
+                    <div className='py-16 px-8 flex flex-col lg:flex-row gap-4 md:px-16 lg:px-32'>
                         <h3 className='font-semibold text-2xl'>Built Around the Driver</h3>
                         <p className='text-sm lg:px-16'>The inside of Model 3 is unlike any other car. You can use your smartphone as a key, and access all driver controls in the central 15-inch touchscreen. The all-glass roof extends from front to back, creating a sense of openness from every seat.</p>
                     </div>
