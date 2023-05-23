@@ -59,7 +59,7 @@ function Modelx() {
                     </div>
                 </div>
                 <div>
-                    <div className="flex flex-col lg:flex-row lg:justify-center lg:items-center lg:gap-16 py-8 bg-black md:px-16 lg:px-48">
+                    <div className="flex flex-col lg:flex-row lg:justify-center lg:items-center lg:gap-16 py-8 bg-black md:px-16 lg:px-48 px-8">
                         <div className='flex flex-col'>
                             <h3 className='font-bold text-2xl text-white'>Plaid</h3>
                             <h3 className='text-xl mb-4 text-white'>Beyond Ludicrous</h3>

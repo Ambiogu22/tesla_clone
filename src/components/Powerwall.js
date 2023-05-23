@@ -69,12 +69,12 @@ function Powerwall() {
                     <div className="bg-[url('https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/PW_tesla_app_D')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col h-96 border-t-1 border-gray-600"/>
                     <div className='py-8 flex flex-col justify-center items-center md:justify-start md:items-start gap-1 md:mx-16'>
-                        <div className='px-8 py-2 flex flex-col gap-1'>
+                        <div className='px-8 py-2 flex flex-col justify-center items-center md:justify-start md:items-start gap-1'>
                             <h3 className='font-semibold text-xl text-gray-600'>Control</h3>
                             <h3 className='font-semibold text-2xl'>Monitor and Optimize</h3>
                         </div>
                         <div className='px-8'>
-                            <p className='text-sm'>With the Tesla app, you can monitor your solar energy in real time. Set your preferences to optimize for energy independence, outage protection or savings. Control your system from anywhere with remote access and instant alerts.</p>
+                            <p className='text-sm text-center md:text-left'>With the Tesla app, you can monitor your solar energy in real time. Set your preferences to optimize for energy independence, outage protection or savings. Control your system from anywhere with remote access and instant alerts.</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ function Powerwall() {
                     <div className="bg-[url('https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/PW_Inverter_Design_D')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-96 border-t-1 border-gray-600"/>
                     <div className='py-8 md:mx-16 flex flex-col justify-center items-center md:justify-start md:items-start gap-4'>
-                        <div className='px-8 py-2'>
+                        <div className='px-8 py-2 flex flex-col justify-center items-center md:justify-start'>
                             <h3 className='font-semibold text-xl text-gray-600'>Design</h3>
                             <h3 className='font-semibold text-2xl'>Modern and Compact</h3>
                         </div>
