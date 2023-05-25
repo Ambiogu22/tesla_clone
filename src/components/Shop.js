@@ -31,7 +31,7 @@ function Shop() {
                 </div>
                 <div className="bg-[url('https://digitalassets-shop.tesla.com/image/upload/f_auto,q_auto/v1/content/dam/tesla/teslaweb/homepage/M3_web.jpg')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-screen">
-                    <div className='flex flex-col justify-between gap-48 py-48'>
+                    <div className='flex flex-col justify-between gap-32 py-48'>
                         <div className='flex flex-col justify-center items-center'>
                             <h3 className='text-4xl font-semibold text-white'>Model 3 Accesories</h3>
                         </div>
@@ -42,7 +42,7 @@ function Shop() {
                 </div>
                 <div className="bg-[url('https://digitalassets-shop.tesla.com/image/upload/f_auto,q_auto/v1/content/dam/tesla/teslaweb/homepage/MX_web.jpg')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-screen">
-                    <div className='flex flex-col justify-between gap-48 py-48'>
+                    <div className='flex flex-col justify-between gap-32 py-48'>
                         <div className='flex flex-col justify-center items-center'>
                             <h3 className='text-4xl font-semibold text-white'>Model X Accesories</h3>
                         </div>
@@ -53,7 +53,7 @@ function Shop() {
                 </div>
                 <div className="bg-[url('https://digitalassets-shop.tesla.com/image/upload/f_auto,q_auto/v1/content/dam/tesla/teslaweb/homepage/MY_web.jpg')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-screen">
-                    <div className='flex flex-col justify-between gap-48 py-48'>
+                    <div className='flex flex-col justify-between gap-28 py-48'>
                         <div className='flex flex-col justify-center items-center'>
                             <h3 className='text-4xl font-semibold text-white'>Model Y Accesories</h3>
                         </div>
@@ -64,7 +64,7 @@ function Shop() {
                 </div>
                 <div className="bg-[url('https://digitalassets-shop.tesla.com/image/upload/f_auto,q_auto/v1/content/dam/tesla/teslaweb/homepage/Charging_web.jpg')]
                             bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-screen">
-                    <div className='flex flex-col justify-between gap-48 py-48'>
+                    <div className='flex flex-col justify-between gap-32 py-48'>
                         <div className='flex flex-col justify-center items-center'>
                             <h3 className='text-4xl font-semibold text-white'>Charging</h3>
                         </div>

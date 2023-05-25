@@ -31,8 +31,8 @@ function NavBar() {
                     </div>
                     <div className='lg:flex justify-center items-center font-bold gap-6 hidden'>
                         <Link to='/shop'>Shop</Link>
-                        <Link to='/account'>Account</Link>
-                        <h3>Menu</h3>
+                        <Link to='/'>Account</Link>
+                        <Link to='/'>Menu</Link>
                     </div>
                 </div>
             </div>

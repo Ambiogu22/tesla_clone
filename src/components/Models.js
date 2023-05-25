@@ -76,25 +76,27 @@ function Models() {
                     <h3 className='px-32 md:px-16 py-2 font-semibold border-2 border-white text-white bg-black rounded-sm text-center cursor-pointer'>Order Now</h3>
                     <h3 className=' text-white bg-gray-700 py-4 px-32 md:px-16 font-semibold rounded-sm text-sm text-center cursor-pointer'>View Inventory</h3>
                 </div>
-                <div className='bg-black pt-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={Relentless} alt='Relentless' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4 lg:mx-20'>
-                        <h3 className='text-white font-semibold'>Relentless Performance</h3>
-                        <p className='text-white text-sm lg:text-lg'>Staggered, performance wheels and tires keep the car planted and help transfer maximum power down to the road.</p>
+                <div className='flex flex-col justify-start items-start bg-black'>
+                    <div className='bg-black pt-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={Relentless} alt='Relentless' className='md:w-[400px] lg:w-[450px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Relentless Performance</h3>
+                            <p className='text-white text-sm lg:text-lg'>Staggered, performance wheels and tires keep the car planted and help transfer maximum power down to the road.</p>
+                        </div>
                     </div>
-                </div>
-                <div className='bg-black pt-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={Optimized} alt='Optimized' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4 lg:mx-20'>
-                        <h3 className='text-white font-semibold'>Optimized Aerodynamics</h3>
-                        <p className='text-white text-sm lg:text-lg'>Attention to detail on all exterior surfaces makes Model S the most aerodynamic production car on Earth.</p>
+                    <div className='bg-black pt-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={Optimized} alt='Optimized' className='md:w-[400px] lg:w-[450px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Optimized Aerodynamics</h3>
+                            <p className='text-white text-sm lg:text-lg'>Attention to detail on all exterior surfaces makes Model S the most aerodynamic production car on Earth.</p>
+                        </div>
                     </div>
-                </div>
-                <div className='bg-black pb-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={Refined} alt='Refined' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4 lg:mx-20'>
-                        <h3 className='text-white font-semibold'>Refined Styling</h3>
-                        <p className='text-white text-sm lg:text-lg'>An iconic silhouette meets refreshed, elegant proportions.</p>
+                    <div className='bg-black pb-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={Refined} alt='Refined' className='md:w-[400px] lg:w-[450px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Refined Styling</h3>
+                            <p className='text-white text-sm lg:text-lg'>An iconic silhouette meets refreshed, elegant proportions.</p>
+                        </div>
                     </div>
                 </div>
                 <div>

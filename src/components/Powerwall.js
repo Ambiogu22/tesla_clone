@@ -80,9 +80,9 @@ function Powerwall() {
                 </div>
                 <div className='pb-8'>
                     <div className="bg-[url('https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/PW_Inverter_Design_D')]
-                            bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col justify-center items-center h-96 border-t-1 border-gray-600"/>
+                            bg-cover bg-center bg-no-repeat overflow-hidden flex flex-col h-96 border-t-1 border-gray-600"/>
                     <div className='py-8 md:mx-16 flex flex-col justify-center items-center md:justify-start md:items-start gap-4'>
-                        <div className='px-8 py-2 flex flex-col justify-center items-center md:justify-start'>
+                        <div className='px-8 py-2 flex flex-col justify-center items-center md:justify-start md:items-start'>
                             <h3 className='font-semibold text-xl text-gray-600'>Design</h3>
                             <h3 className='font-semibold text-2xl'>Modern and Compact</h3>
                         </div>
