@@ -31,7 +31,7 @@ function Solarpanels() {
                                     <h3 className='text-black md:text-white text-xs font-bold'>Outage Protection</h3>
                                 </div>
                             </div>
-                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Solarpanels() {
                         <h3 className=' font-bold text-2xl'>Savings</h3>
                         <h3 className='text-gray-600 text-xl mb-4'>Electricity For Less</h3>
                         <p className=' text-sm mb-4 text-center md:text-left'>Use solar energy to power your home and reduce your dependence on the grid. Purchase solar at the lowest price of any national provider with Tesla's price match guarantee and take control of your monthly electricity bill. Schedule a virtual consultation with a Tesla Advisor to learn more.</p>
-                        <h3 className='border-2 border-black px-28 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                        <h3 className='border-2 border-black px-28 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
 
                     </div>
                 </div>
@@ -67,7 +67,7 @@ function Solarpanels() {
                         </div>
                         <div className='px-8 flex flex-col justify-center items-center md:justify-start md:items-start gap-4'>
                             <p className='text-sm'>Your Powerwall can be bundled with solar, allowing you to generate clean energy and store it for use anytime—at night or during an outage.</p>
-                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ function Solarpanels() {
                         </div>
                         <div className='px-8 flex flex-col justify-center items-center md:justify-start md:items-start gap-4'>
                             <p className='text-sm'>Tesla solar panels are designed to be highly efficient, delivering maximum solar production year-round, even on roofs with complicated angles. Powered by Tesla Solar Inverter, your fully integrated system is safe and reliable.</p>
-                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@ function Solarpanels() {
                         </div>
                         <div className='px-8 flex flex-col justify-center items-center md:justify-start md:items-start gap-4'>
                             <p className='text-sm'>Manage your solar system from anywhere in the world with 24/7 mobile monitoring. Watch your energy in real time or set your preferences to optimize for energy independence.</p>
-                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>

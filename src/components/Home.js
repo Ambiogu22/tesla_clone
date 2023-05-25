@@ -13,7 +13,7 @@ function Home() {
                             <h3 className='text-xl text-white'>Schedule a Demo Drive Today</h3>
                         </div>
                         <div className='flex justify-center items-center'>
-                            <h3 className='text-white border-2 border-white px-32 py-1 font-semibold rounded-sm cursor-pointer'>Demo Drive</h3>
+                            <h3 className='text-white border-2 border-white px-32 py-1 font-semibold rounded-sm cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Demo Drive</h3>
                         </div>
                     </div>
                 </div>
@@ -25,8 +25,8 @@ function Home() {
                             <h3 className='text-md underline underline-offset-4 font-light cursor-pointer'>View Inventory</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Demo Drive</h3>
+                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Demo Drive</h3>
                         </div>
                     </div>
                 </div>
@@ -38,8 +38,8 @@ function Home() {
                             <h3 className='text-md underline underline-offset-4 font-light cursor-pointer'>View Inventory</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Demo Drive</h3>
+                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Demo Drive</h3>
                         </div>
                     </div>
                 </div>
@@ -51,8 +51,8 @@ function Home() {
                             <h3 className='text-md underline underline-offset-4 font-light cursor-pointer'>View Inventory</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Demo Drive</h3>
+                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Demo Drive</h3>
                         </div>
                     </div>
                 </div>
@@ -64,8 +64,8 @@ function Home() {
                             <h3 className='text-md underline underline-offset-4 font-light cursor-pointer'>View Inventory</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Demo Drive</h3>
+                            <h3 className='bg-gray-700 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Demo Drive</h3>
                         </div>
                     </div>
                 </div>
@@ -77,8 +77,8 @@ function Home() {
                             <h3 className='text-md font-light'>Lowest Cost Solar Panels in America</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-800 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Learn More</h3>
+                            <h3 className='bg-gray-800 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Learn More</h3>
                         </div>
                     </div>
                 </div>
@@ -90,8 +90,8 @@ function Home() {
                             <h3 className='text-md font-light'>Produce Clean Energy From Your Roof</h3>
                         </div>
                         <div className='flex flex-col justify-center items-center gap-4'>
-                            <h3 className='bg-gray-800 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Order Now</h3>
-                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer'>Learn More</h3>
+                            <h3 className='bg-gray-800 text-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-900 transition-all duration-300'>Order Now</h3>
+                            <h3 className='bg-white px-32 py-2 font-semibold rounded-sm cursor-pointer hover:bg-gray-200 transition-all duration-300'>Learn More</h3>
                         </div>
                     </div>
                 </div>

@@ -29,7 +29,7 @@ function Solarroof() {
                                     <h3 className='text-white text-xs font-semibold'>Outage Protection</h3>
                                 </div>
                             </div>
-                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Solarroof() {
                         <h3 className=' font-bold text-2xl'>Design</h3>
                         <h3 className='text-gray-600 text-xl mb-4'>Complement Your Home's Aesthetic</h3>
                         <p className=' text-sm md:text-base mb-4'>Install Solar Roof and power your home with a fully integrated solar and energy storage system. The glass solar tiles and steel roofing tiles look great up close and from the street, complementing your home’s natural styling. Schedule a virtual consultation with a Tesla Advisor to learn more.</p>
-                        <h3 className='text-black border-2 border-black px-8 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                        <h3 className='text-black border-2 border-black px-8 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                     </div>
                 </div>
                 <div>
@@ -66,7 +66,7 @@ function Solarroof() {
                         </div>
                         <div className='px-8 md:px-0 flex flex-col items-center md:items-start gap-8'>
                             <p className='text-sm'>With the Tesla app, you can monitor your energy production in real time. Control your system from anywhere with instant alerts and remote access.</p>
-                            <h3 className='border-2 border-black px-8 text-sm md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='border-2 border-black px-8 text-sm md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>

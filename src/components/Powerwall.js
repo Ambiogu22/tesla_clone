@@ -31,7 +31,7 @@ function Powerwall() {
                                     <h3 className='text-white text-xs font-bold'>Outage Protection</h3>
                                 </div>
                             </div>
-                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ function Powerwall() {
                                     <h3 className='text-white text-xs font-bold'>Appliances Running</h3>
                                 </div>
                             </div>
-                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                            <h3 className='text-white border-2 border-white px-32 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ function Powerwall() {
                         <h3 className=' font-bold text-2xl'>Secutiry</h3>
                         <h3 className='text-gray-600 text-xl mb-4'>Backup Protection</h3>
                         <p className=' text-sm mb-4 text-center md:text-left'>Powerwall is an integrated battery system that stores your solar energy for backup protection, so when the grid goes down your power stays on. Your system detects outages and automatically recharges with sunlight to keep your appliances running for days.</p>
-                        <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer'>Order Now</h3>
+                        <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                     </div>
                 </div>
                 <div>
@@ -88,7 +88,7 @@ function Powerwall() {
                         </div>
                         <div className='px-8 flex flex-col gap-6 justify-center items-center md:justify-start md:items-start'>
                             <p className='text-sm text-center md:text-left'>With easy installation and a minimalist design, Powerwall complements a variety of home styles and solar systems. The compact, all-in-one construction features versatile mounting options for indoor or outdoor spaces. Chat with an energy advisor to ask any questions about Tesla Powerwall.</p>
-                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center  cursor-pointer'>Order Now</h3>
+                            <h3 className='border-2 border-black px-28 md:px-16 py-2 font-semibold rounded-sm text-center  cursor-pointer hover:bg-black hover:text-white transition-all duration-300'>Order Now</h3>
                         </div>
                     </div>
                 </div>

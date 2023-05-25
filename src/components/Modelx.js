@@ -67,29 +67,31 @@ function Modelx() {
                         <p className='text-sm mb-4 text-white'>With the most power and quickest acceleration of any SUV, Model X Plaid is the highest performing SUV ever built. Updated battery architecture enables both Long Range and Plaid configurations to complete back-to-back track runs without performance degradation. Chat with a Tesla Advisor to learn more about Model X or schedule a demo drive today.</p>
                     </div>
                     <div className='flex flex-col md:flex-row md:justify-start md:pl-16 justify-center items-center gap-2 md:gap-6 pb-8 lg:px-48 bg-black'>
-                        <h3 className='text-white px-32 md:px-16 py-2 font-semibold border-2 border-white rounded-sm text-center cursor-pointer'>Order Now</h3>
-                        <h3 className='text-white bg-gray-700 py-4 px-32 md:px-16 font-semibold rounded-sm text-sm text-center cursor-pointer'>View Inventory</h3>
+                        <h3 className='text-white px-32 md:px-16 py-2 font-semibold border-2 border-white rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
+                        <h3 className='text-white bg-gray-700 py-4 px-32 md:px-16 font-semibold rounded-sm text-sm text-center cursor-pointer hover:bg-gray-800 transition-all duration-300'>View Inventory</h3>
                     </div>
                 </div>
-                <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={RelentlessModelX} alt='Relentless' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4'>
-                        <h3 className='text-white font-semibold'>Relentless Performance</h3>
-                        <p className='text-white text-sm'>Performance wheels and tires keep the SUV planted, transferring even more power down to the road.</p>
+                <div className='flex flex-col justify-start items-start bg-black'>
+                    <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={RelentlessModelX} alt='Relentless' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Relentless Performance</h3>
+                            <p className='text-white text-sm'>Performance wheels and tires keep the SUV planted, transferring even more power down to the road.</p>
+                        </div>
                     </div>
-                </div>
-                <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={Optimized} alt='Optimized' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4'>
-                        <h3 className='text-white font-semibold'>Optimized Aerodynamics</h3>
-                        <p className='text-white text-sm'>Attention to detail on all exterior surfaces makes Model X the most aerodynamic production SUV on Earth.</p>
+                    <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={Optimized} alt='Optimized' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Optimized Aerodynamics</h3>
+                            <p className='text-white text-sm'>Attention to detail on all exterior surfaces makes Model X the most aerodynamic production SUV on Earth.</p>
+                        </div>
                     </div>
-                </div>
-                <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
-                    <img src={Refined} alt='Optimized' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
-                    <div className='p-8 flex flex-col gap-4'>
-                        <h3 className='text-white font-semibold'>Refined Styling</h3>
-                        <p className='text-white text-sm'>Exterior design combines an iconic look with elegant details.</p>
+                    <div className='bg-black py-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
+                        <img src={Refined} alt='Optimized' className='md:w-[400px] lg:w-[550px] mx-auto my-auto' />
+                        <div className='p-8 flex flex-col gap-4'>
+                            <h3 className='text-white font-semibold'>Refined Styling</h3>
+                            <p className='text-white text-sm'>Exterior design combines an iconic look with elegant details.</p>
+                        </div>
                     </div>
                 </div>
                 <Footer />

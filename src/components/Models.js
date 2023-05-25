@@ -73,8 +73,8 @@ function Models() {
                     <p className='text-white bg-black text-sm md:text-lg pb-8 px-8 lg:px-48'>With a drag coefficient of just .208 Cd, the lowest on the planet, Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more responsive performance so you can take corners quicker and with more confidence.</p>
                 </div>
                 <div className='bg-black flex flex-col md:flex-row md:justify-start md:pl-8 justify-center items-center gap-2 md:gap-8 pb-8 lg:px-48'>
-                    <h3 className='px-32 md:px-16 py-2 font-semibold border-2 border-white text-white bg-black rounded-sm text-center cursor-pointer'>Order Now</h3>
-                    <h3 className=' text-white bg-gray-700 py-4 px-32 md:px-16 font-semibold rounded-sm text-sm text-center cursor-pointer'>View Inventory</h3>
+                    <h3 className='px-32 md:px-16 py-2 font-semibold border-2 border-white text-white bg-black rounded-sm text-center cursor-pointer hover:bg-white hover:text-black transition-all duration-300'>Order Now</h3>
+                    <h3 className=' text-white bg-gray-700 py-4 px-32 md:px-16 font-semibold rounded-sm text-sm text-center cursor-pointer hover:bg-gray-800 transition-all duration-300'>View Inventory</h3>
                 </div>
                 <div className='flex flex-col justify-start items-start bg-black'>
                     <div className='bg-black pt-8 flex flex-col md:flex-row md:px-16 lg:px-48'>
